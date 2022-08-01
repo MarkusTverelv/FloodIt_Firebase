@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270040300809",
+    "firebase_url": "https://floodit-edbb8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "floodit-edbb8",
+    "storage_bucket": "floodit-edbb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270040300809:android:59e7560c32b4d57e27e7d8",
+        "android_client_info": {
+          "package_name": "com.YRGO.FloodIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270040300809-05iq11imnbrhpm7tua9j2d2o7bk4epun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5BsvmiclvuRHL3YJFzzd1QeXIQh8fhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270040300809-05iq11imnbrhpm7tua9j2d2o7bk4epun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
