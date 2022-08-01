@@ -51,6 +51,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 *google-services.json
+*FirebaseCppApp-8_8_0.so
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
